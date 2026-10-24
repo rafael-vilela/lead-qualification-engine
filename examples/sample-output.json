@@ -1,0 +1,540 @@
+{
+  "count": 7,
+  "leads": [
+    {
+      "rank": 1,
+      "id": "lead-001",
+      "name": "Sunrise Bakery",
+      "score": 95,
+      "maxScore": 100,
+      "tier": "high",
+      "priorityReason": "High priority (95/100): Rated 4.7/5 from 312 reviews on Google Business (+20); No website found: clear opportunity for a web presence (+20); 14 Instagram posts in the last 30 days (+15)",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness",
+          "website",
+          "instagram"
+        ],
+        "missing": []
+      },
+      "warnings": [],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 20,
+          "maxPoints": 20,
+          "reason": "Rated 4.7/5 from 312 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Google Business profile claimed, opening hours listed"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 15,
+          "maxPoints": 15,
+          "reason": "14 Instagram posts in the last 30 days"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 15,
+          "reason": "2400 Instagram followers"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 20,
+          "maxPoints": 20,
+          "reason": "No website found: clear opportunity for a web presence"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "No website to capture enquiries; no link in Instagram bio"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Owner replies to 10% of Google reviews"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "lead-007",
+      "name": "Casa Verde Kitchen",
+      "score": 73,
+      "maxScore": 100,
+      "tier": "high",
+      "priorityReason": "High priority (73/100): Rated 4.4/5 from 210 reviews on Google Business (+17); 5200 Instagram followers (+15); Website has technical gaps: no HTTPS, not mobile-friendly (+12)",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness",
+          "website",
+          "instagram"
+        ],
+        "missing": []
+      },
+      "warnings": [],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 17,
+          "maxPoints": 20,
+          "reason": "Rated 4.4/5 from 210 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Google Business profile claimed, opening hours listed"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 9,
+          "maxPoints": 15,
+          "reason": "9 Instagram posts in the last 30 days"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 15,
+          "maxPoints": 15,
+          "reason": "5200 Instagram followers"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 12,
+          "maxPoints": 20,
+          "reason": "Website has technical gaps: no HTTPS, not mobile-friendly"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 10,
+          "reason": "Website has a contact or booking path; Instagram bio links out"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Owner replies to 20% of Google reviews"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "lead-002",
+      "name": "Northside Dental Studio",
+      "score": 60,
+      "maxScore": 100,
+      "tier": "medium",
+      "priorityReason": "Medium priority (60/100): Rated 4.8/5 from 540 reviews on Google Business (+20); 20 Instagram posts in the last 30 days (+15); 8000 Instagram followers (+15)",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness",
+          "website",
+          "instagram"
+        ],
+        "missing": []
+      },
+      "warnings": [],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 20,
+          "maxPoints": 20,
+          "reason": "Rated 4.8/5 from 540 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Google Business profile claimed, opening hours listed"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 15,
+          "maxPoints": 15,
+          "reason": "20 Instagram posts in the last 30 days"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 15,
+          "maxPoints": 15,
+          "reason": "8000 Instagram followers"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 20,
+          "reason": "Website uses HTTPS and is mobile-friendly"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 10,
+          "reason": "Website has a contact or booking path; Instagram bio links out"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 10,
+          "reason": "Owner replies to 90% of Google reviews"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "lead-006",
+      "name": "Lumen Yoga Loft",
+      "score": 55,
+      "maxScore": 100,
+      "tier": "medium",
+      "priorityReason": "Medium priority (55/100): Rated 4.6/5 from 120 reviews on Google Business (+16); Google Business profile claimed, opening hours listed (+10); 1500 Instagram followers (+10)",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness",
+          "website",
+          "instagram"
+        ],
+        "missing": []
+      },
+      "warnings": [],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 16,
+          "maxPoints": 20,
+          "reason": "Rated 4.6/5 from 120 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Google Business profile claimed, opening hours listed"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 4,
+          "maxPoints": 15,
+          "reason": "2 Instagram posts in the last 30 days"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 15,
+          "reason": "1500 Instagram followers"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 20,
+          "reason": "Website uses HTTPS and is mobile-friendly"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "No contact form or online booking on the website; no link in Instagram bio"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 5,
+          "maxPoints": 10,
+          "reason": "Owner replies to 40% of Google reviews"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "lead-003",
+      "name": "Harbor Fitness",
+      "score": 50,
+      "maxScore": 100,
+      "tier": "medium",
+      "priorityReason": "Medium priority (50/100): Rated 4.2/5 from 85 reviews on Google Business (+13); Website has technical gaps: no HTTPS, not mobile-friendly (+12); 5 Instagram posts in the last 30 days (+9)",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness",
+          "website",
+          "instagram"
+        ],
+        "missing": []
+      },
+      "warnings": [],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 13,
+          "maxPoints": 20,
+          "reason": "Rated 4.2/5 from 85 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 6,
+          "maxPoints": 10,
+          "reason": "Google Business profile claimed, no opening hours"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 9,
+          "maxPoints": 15,
+          "reason": "5 Instagram posts in the last 30 days"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 5,
+          "maxPoints": 15,
+          "reason": "650 Instagram followers"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 12,
+          "maxPoints": 20,
+          "reason": "Website has technical gaps: no HTTPS, not mobile-friendly"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 10,
+          "reason": "Website has a contact or booking path; Instagram bio links out"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 5,
+          "maxPoints": 10,
+          "reason": "Owner replies to 50% of Google reviews"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "lead-004",
+      "name": "Maple Street Auto Repair",
+      "score": 21,
+      "maxScore": 100,
+      "tier": "low",
+      "priorityReason": "Low priority (21/100): Owner replies to 0% of Google reviews (+10); Rated 3.9/5 from 42 reviews on Google Business (+7); Google Business profile not claimed, opening hours listed (+4)",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness"
+        ],
+        "missing": [
+          "website",
+          "instagram"
+        ]
+      },
+      "warnings": [
+        "Low data coverage (1/3 sources); verify manually before outreach"
+      ],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 7,
+          "maxPoints": 20,
+          "reason": "Rated 3.9/5 from 42 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 4,
+          "maxPoints": 10,
+          "reason": "Google Business profile not claimed, opening hours listed"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 0,
+          "maxPoints": 15,
+          "reason": "Instagram data unavailable; not assessed"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 0,
+          "maxPoints": 15,
+          "reason": "Instagram data unavailable; not assessed"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 20,
+          "reason": "Website data unavailable; not assessed"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 0,
+          "maxPoints": 10,
+          "reason": "Website and Instagram data unavailable; not assessed"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Owner replies to 0% of Google reviews"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "lead-005",
+      "name": "Old Town Florist",
+      "score": 0,
+      "maxScore": 100,
+      "tier": "disqualified",
+      "priorityReason": "Disqualified: Business is marked as permanently closed on Google Business",
+      "dataCoverage": {
+        "available": [
+          "googleBusiness",
+          "website",
+          "instagram"
+        ],
+        "missing": []
+      },
+      "warnings": [],
+      "factors": [
+        {
+          "id": "reputation",
+          "label": "Established reputation",
+          "group": "fit",
+          "points": 20,
+          "maxPoints": 20,
+          "reason": "Rated 4.9/5 from 230 reviews on Google Business"
+        },
+        {
+          "id": "verified_profile",
+          "label": "Complete business profile",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Google Business profile claimed, opening hours listed"
+        },
+        {
+          "id": "social_activity",
+          "label": "Recent social activity",
+          "group": "fit",
+          "points": 0,
+          "maxPoints": 15,
+          "reason": "0 Instagram posts in the last 30 days"
+        },
+        {
+          "id": "audience",
+          "label": "Audience size",
+          "group": "fit",
+          "points": 10,
+          "maxPoints": 15,
+          "reason": "1200 Instagram followers"
+        },
+        {
+          "id": "website_gap",
+          "label": "Website gap",
+          "group": "opportunity",
+          "points": 20,
+          "maxPoints": 20,
+          "reason": "No website found: clear opportunity for a web presence"
+        },
+        {
+          "id": "conversion_gap",
+          "label": "Conversion path gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "No website to capture enquiries; no link in Instagram bio"
+        },
+        {
+          "id": "review_response_gap",
+          "label": "Review response gap",
+          "group": "opportunity",
+          "points": 10,
+          "maxPoints": 10,
+          "reason": "Owner replies to 20% of Google reviews"
+        }
+      ]
+    }
+  ]
+}

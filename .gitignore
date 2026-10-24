@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+*.log
+.DS_Store
+
+# never commit secrets or real lead data
+.env
+.env.*
+*.pem
+*.key
+data/
+private/

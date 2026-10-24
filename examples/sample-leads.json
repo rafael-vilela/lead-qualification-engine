@@ -1,0 +1,77 @@
+[
+  {
+    "id": "lead-001",
+    "name": "Sunrise Bakery",
+    "category": "bakery",
+    "city": "Springfield",
+    "mockSources": {
+      "googleBusiness": { "rating": 4.7, "reviewCount": 312, "claimed": true, "hasHours": true, "ownerResponseRate": 0.1 },
+      "website": { "exists": false },
+      "instagram": { "followers": 2400, "postsLast30Days": 14, "hasLinkInBio": false }
+    }
+  },
+  {
+    "id": "lead-002",
+    "name": "Northside Dental Studio",
+    "category": "dentist",
+    "city": "Springfield",
+    "mockSources": {
+      "googleBusiness": { "rating": 4.8, "reviewCount": 540, "claimed": true, "hasHours": true, "ownerResponseRate": 0.9 },
+      "website": { "url": "https://northside-dental.example", "https": true, "mobileFriendly": true, "hasContactForm": true, "hasOnlineBooking": true },
+      "instagram": { "followers": 8000, "postsLast30Days": 20, "hasLinkInBio": true }
+    }
+  },
+  {
+    "id": "lead-003",
+    "name": "Harbor Fitness",
+    "category": "gym",
+    "city": "Shelbyville",
+    "mockSources": {
+      "googleBusiness": { "rating": 4.2, "reviewCount": 85, "claimed": true, "hasHours": false, "ownerResponseRate": 0.5 },
+      "website": { "url": "http://harbor-fitness.example", "https": false, "mobileFriendly": false, "hasContactForm": true, "hasOnlineBooking": false },
+      "instagram": { "followers": 650, "postsLast30Days": 5, "hasLinkInBio": true }
+    }
+  },
+  {
+    "id": "lead-004",
+    "name": "Maple Street Auto Repair",
+    "category": "auto repair",
+    "city": "Shelbyville",
+    "mockSources": {
+      "googleBusiness": { "rating": 3.9, "reviewCount": 42, "claimed": false, "hasHours": true, "ownerResponseRate": 0 }
+    }
+  },
+  {
+    "id": "lead-005",
+    "name": "Old Town Florist",
+    "category": "florist",
+    "city": "Springfield",
+    "mockSources": {
+      "googleBusiness": { "rating": 4.9, "reviewCount": 230, "claimed": true, "hasHours": true, "ownerResponseRate": 0.2, "permanentlyClosed": true },
+      "website": { "exists": false },
+      "instagram": { "followers": 1200, "postsLast30Days": 0, "hasLinkInBio": false }
+    }
+  },
+  {
+    "id": "lead-006",
+    "name": "Lumen Yoga Loft",
+    "category": "yoga studio",
+    "city": "Capital City",
+    "mockSources": {
+      "googleBusiness": { "rating": 4.6, "reviewCount": 120, "claimed": true, "hasHours": true, "ownerResponseRate": 0.4 },
+      "website": { "url": "https://lumen-yoga.example", "https": true, "mobileFriendly": true, "hasContactForm": false, "hasOnlineBooking": false },
+      "instagram": { "followers": 1500, "postsLast30Days": 2, "hasLinkInBio": false }
+    }
+  },
+  {
+    "id": "lead-007",
+    "name": "Casa Verde Kitchen",
+    "category": "restaurant",
+    "city": "Capital City",
+    "mockSources": {
+      "googleBusiness": { "rating": 4.4, "reviewCount": 210, "claimed": true, "hasHours": true, "ownerResponseRate": 0.2 },
+      "website": { "url": "http://casa-verde.example", "https": false, "mobileFriendly": false, "hasContactForm": true, "hasOnlineBooking": false },
+      "instagram": { "followers": 5200, "postsLast30Days": 9, "hasLinkInBio": true }
+    }
+  }
+]

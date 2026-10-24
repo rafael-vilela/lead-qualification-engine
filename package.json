@@ -1,0 +1,25 @@
+{
+  "name": "lead-qualification-engine",
+  "version": "0.1.0",
+  "description": "Transparent, explainable lead scoring from Google Business, website and Instagram signals (mock adapters, runs fully offline).",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "qualify-leads": "bin/qualify-leads.js"
+  },
+  "scripts": {
+    "start": "node bin/qualify-leads.js examples/sample-leads.json",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "lead-scoring",
+    "lead-qualification",
+    "explainable",
+    "cli",
+    "example"
+  ],
+  "license": "MIT"
+}
